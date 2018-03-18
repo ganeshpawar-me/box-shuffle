@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+index.html
+assets/css/normalize.css
+assets/css/style.css
+assets/js/checkWinner.js
+assets/js/index.js
+assets/js/isMoveAllowed.js
+assets/js/jquery-2.1.4.min.js
+
+NETWORK:
+*
+
+FALLBACK:

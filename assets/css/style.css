@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 25vh;
+  width: 100vw;
+}
+div[class^='div-'] {
+height: 25vh;
+width: 100vw;
+  background: #ffffff;
+  border: 1px solid gray;
+}
+.container {
+  /*background: #999;*/
+  border: 2px solid gray;
+  margin: 0 auto;
+  width: 100vw;
+  height: 25vh;
+}
+div[class^="row-"] {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.site-wrap {
+  /*background: #bddad5;*/
+  height: 100%;
+  width: 100%;
+  padding-top: 100px;
+}
